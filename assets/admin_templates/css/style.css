@@ -1,0 +1,14 @@
+.mg-image img {
+	transition: all 1s ease;
+	max-width: 100%;
+}
+
+.mg-image:hover img {
+	transform: scale(1.25);
+}
+
+.mg-image {
+	width: 100px;
+	height: 50px;
+	overflow: hidden;
+}
